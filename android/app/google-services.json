@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041195117015",
+    "project_id": "shubhyatri-61183",
+    "storage_bucket": "shubhyatri-61183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041195117015:android:f103f20c4dcb6dfb748392",
+        "android_client_info": {
+          "package_name": "com.rahman.shubhyatri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041195117015-soqqtjjl24c7ds82b76n970335r8fik7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-GUV1976hHg_ksrRUoeRpbYP9b_Lg3nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041195117015-soqqtjjl24c7ds82b76n970335r8fik7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
